@@ -5,7 +5,7 @@
 
 /*
     This is a block comment that englobes multiple
-    lines of text
+    lines of text. A bolck commnet cannot be nested.
 */
 
 
